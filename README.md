@@ -92,3 +92,6 @@ The model achieves high classification accuracy on the validation and test sets 
 ## References
 - **Dataset:** Brain Tumor MRI Dataset
 - **Libraries:** PyTorch, torchvision, OpenCV, Grad-CAM
+
+## Acknowledgement
+this project is done under guidance of [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
